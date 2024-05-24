@@ -1,0 +1,74 @@
+.header-container {
+    background-color: #ffff; /* Change background color here */
+}
+
+
+.header-container {
+    padding: 10px 20px;
+    background-color: #002f3408;
+    border-bottom: 3px solid #fff;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .1);
+}
+
+.cat-container {
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .1);
+    padding: 8px 20px;
+
+}
+
+.mt-3 {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.search {
+    margin-left: 80px;
+    outline: none;
+    padding-left: 10px;
+    width: 800px;
+    height: 44px;
+    border: 2px solid #002f34;
+    border-radius: 4px 0px 0px 4px;
+}
+
+.search-btn {
+    height: 44px;
+    background-color: #002f34;
+    color: #fff;
+    border-radius: 0px 4px 4px 0px;
+    outline: none;
+    border: none;
+    padding: 0px 15px;
+}
+
+.logout-btn {
+    height: 35px;
+    background-color: #002f34;
+    color: #fff;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    padding: 1px 16px;
+    margin-right: 10px;
+}
+
+.category {
+    color: rgba(0, 47, 52, 1);
+    padding: 7px;
+    cursor: pointer;
+}
+.custom-heading-style {
+    /*font-family: "Times New Roman", Times, serif; /* Traditional serif font */
+    /* font-family: Georgia, serif; */ /* Another option for a serif font */
+    /* font-family: "Arial Black", sans-serif; */ /* Bold sans-serif font */
+    /* font-family: Verdana, sans-serif; */ /* Clear and readable sans-serif font */
+    /* font-family: "Lucida Console", Monaco, monospace; */ /* Monospaced font, good for code */
+     /*font-family: "Trebuchet MS", sans-serif;  /* Sans-serif font with a distinctive appearance */
+    /* font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;  /* Classic serif font */
+     /*font-family: "Impact", sans-serif; /* Bold sans-serif font with a strong impact */
+     font-family: "Courier New", Courier, monospace;  /* Monospaced font, good for code or typewriter-like appearance */
+    /* font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; */ /* Modern sans-serif font */
+     /* font-family: "Garamond", serif;  /* Classic serif font known for its elegance */
+/*font-family: Arial, sans-serif; /* Change the font family to your desired font */
+font-weight: bold; 
+}
